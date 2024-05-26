@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Resource Files</string>
+
+    <string name="Day">Day 1</string>
+    <string name="Night">Night 1</string>
+    <string name="None">None 1</string>
+
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+
+    <string name="Txt">Resource file</string>
+
+
+    <string-array name="cars">
+        <item>Toyota</item>
+        <item>BMW</item>
+        <item>Nissan</item>
+        <item>Tesla</item>
+        <item>Proton</item>
+    </string-array>
+
+</resources>
